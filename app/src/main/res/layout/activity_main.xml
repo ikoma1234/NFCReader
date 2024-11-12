@@ -29,6 +29,7 @@
                 android:padding="16dp"
                 android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
                 android:autoLink="email|web"
-                android:text="@string/intro_message" />
+                android:text="正しいアイテムをスキャンせよ！"
+                android:textSize="24sp"/>
     </LinearLayout>
 </ScrollView>
